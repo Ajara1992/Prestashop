@@ -78,5 +78,6 @@ public class AccountInfoScenarios {
         WebElement fullFirstName=driver.findElement(By.xpath("(//ol/li)[1]"));
         Assert.assertEquals(fullFirstName.getText(),"firstname is required.");
         System.out.println(fullFirstName.getText()+"==>"+"firstname is required.");
+        System.out.println("yes");
            }
 }
