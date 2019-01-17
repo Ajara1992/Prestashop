@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f615696e-6ad0-4cfd-8186-0220ac061476" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1800753632">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3184" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3184" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="3" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/ProductInfoScenarios.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="53" column="41" lean-forward="true" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/AccountInfoScenarios.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1606">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/AccountInfoScenarios.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/ProductInfoScenarios.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Prestashop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="3" />
+    <option name="width" value="939" />
+    <option name="height" value="957" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546907501229" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/TestNg" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.ProductInfoScenarios">
+    <configuration name="AccountInfoScenarios" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Prestashop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prestashop.tests.smoke_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prestashop.tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="com.prestashop.tests.smoke_tests.AccountInfoScenarios" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountInfoScenarios.myPersonalInformation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Prestashop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prestashop.tests.smoke_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prestashop.tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="com.prestashop.tests.smoke_tests.AccountInfoScenarios" />
+      <option name="METHOD_NAME" value="myPersonalInformation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductInfoScenarios" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Prestashop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prestashop.tests.smoke_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prestashop.tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="com.prestashop.tests.smoke_tests.ProductInfoScenarios" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.ProductInfoScenarios" />
+      <item itemvalue="TestNG.AccountInfoScenarios" />
+      <item itemvalue="TestNG.AccountInfoScenarios.myPersonalInformation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ProductInfoScenarios" />
+        <item itemvalue="TestNG.AccountInfoScenarios" />
+        <item itemvalue="TestNG.AccountInfoScenarios.myPersonalInformation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f615696e-6ad0-4cfd-8186-0220ac061476" name="Default Changelist" comment="" />
+      <created>1545692005235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545692005235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AccountInfoScenarios - 2018.12.26 at 11h 44m 58s.xml">
+      <configuration name="AccountInfoScenarios" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AccountInfoScenarios - 2018.12.26 at 11h 46m 45s.xml">
+      <configuration name="AccountInfoScenarios" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AccountInfoScenarios - 2018.12.26 at 11h 53m 16s.xml">
+      <configuration name="AccountInfoScenarios" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AccountInfoScenarios - 2018.12.26 at 11h 57m 36s.xml">
+      <configuration name="AccountInfoScenarios" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AccountInfoScenarios - 2018.12.26 at 12h 03m 43s.xml">
+      <configuration name="AccountInfoScenarios" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AccountInfoScenarios - 2018.12.26 at 12h 05m 03s.xml">
+      <configuration name="AccountInfoScenarios" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AccountInfoScenarios - 2018.12.26 at 12h 12m 14s.xml">
+      <configuration name="AccountInfoScenarios" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AccountInfoScenarios - 2018.12.26 at 12h 14m 25s.xml">
+      <configuration name="AccountInfoScenarios" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AccountInfoScenarios - 2019.01.01 at 19h 19m 32s.xml">
+      <configuration name="AccountInfoScenarios" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ProductInfoScenarios - 2019.01.07 at 17h 38m 20s.xml">
+      <configuration name="ProductInfoScenarios" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1708502" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13345195" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3291815" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32955465" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Prestashop.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/ProductInfoScenarios.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/AccountInfoScenarios.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="53" column="41" lean-forward="true" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
